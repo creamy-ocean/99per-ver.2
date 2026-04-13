@@ -16,11 +16,10 @@ Use multi-criteria filters including game preferences, play style, and interests
 <img width="760" alt="Project Overview" src="https://github.com/creamy-ocean/99per-ver.2/assets/93719660/a4dad48f-8403-4e47-a983-3a8c8c1818c4">
 <br/><br/>
 
-## Live Demo
+<!--## Live Demo
 
-[https://99per.net](https://99per.net)
+[https://99per.net](https://99per.net)-->
 
-<br/>
 
 ## Preview
 
